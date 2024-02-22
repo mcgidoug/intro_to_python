@@ -1,3 +1,6 @@
+# create a new user object
+
+
 class Person:
 
   def __init__(self, name, age, height):
