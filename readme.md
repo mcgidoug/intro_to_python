@@ -1,3 +1,24 @@
+```
+.___        __                                
+|   | _____/  |________  ____                 
+|   |/    \   __\_  __ \/  _ \                
+|   |   |  \  |  |  | \(  <_> )               
+|___|___|  /__|  |__|   \____/                
+         \/                                   
+___________                                   
+\__    ___/___                                
+  |    | /  _ \                               
+  |    |(  <_> )                              
+  |____| \____/                               
+
+__________          __  .__                   
+\______   \___.__._/  |_|  |__   ____   ____  
+ |     ___<   |  |\   __\  |  \ /  _ \ /    \ 
+ |    |    \___  | |  | |   Y  (  <_> )   |  \
+ |____|    / ____| |__| |___|  /\____/|___|  /
+           \/                \/            \/ 
+```
+
 # Intro To Python
 
 This repository contains a collection of beginner-level Python activities and programs suitable for students learning Python programming.
